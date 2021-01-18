@@ -3,7 +3,7 @@
 仅仅是收集一下京东炸年兽领爆竹活动每秒产生的爆竹🧨
 
 每小时的第20分运行一次
-20 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_collectProduceScore.js
+20 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/activity/jd_collectProduceScore.js, tag=炸年兽收集爆竹, enabled=ture
  */
 const $ = new Env('京东炸年兽领爆竹🧨');
 //Node.js用户请在jdCookie.js处填写京东ck;
